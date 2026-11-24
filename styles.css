@@ -140,33 +140,6 @@ body {
   border-bottom: 1px solid rgba(193,158,123,0.35);
 }
 
-.doors {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 14px;
-  margin-top: 8px;
-}
-.door {
-  display: block;
-  text-decoration: none;
-  background: var(--warm-cream);
-  border-radius: 8px;
-  padding: 22px 26px;
-  border-left: 3px solid var(--gold-tan);
-}
-.door h2 {
-  font-family: var(--font-display);
-  font-size: 24px;
-  font-weight: 500;
-  color: var(--navy);
-  margin-bottom: 6px;
-}
-.door p {
-  font-size: 13.5px;
-  color: var(--mid-text);
-  line-height: 1.65;
-}
-
 .policies {
   display: flex;
   flex-direction: column;
