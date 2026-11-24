@@ -125,6 +125,10 @@ body {
   color: var(--navy);
   font-weight: 600;
 }
+.mission a {
+  color: var(--navy);
+  font-weight: 600;
+}
 .mission + .mission {
   margin-top: -12px;
 }
