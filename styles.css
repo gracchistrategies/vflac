@@ -245,9 +245,10 @@ body {
   text-align: center;
   letter-spacing: 0.4px;
 }
-.footer strong {
+.footer a {
   color: var(--gold-tan);
   font-weight: 500;
+  text-decoration: none;
 }
 
 @media print {
